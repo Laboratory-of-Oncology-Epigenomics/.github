@@ -20,7 +20,7 @@ O **Laboratório de Epigenética em Oncologia** é um grupo de pesquisa focado n
 
 | Repositório | Descrição | Stack |
 |---|---|---|
-| [`FAOSTAT-agrochemical-data-analysis`]([https://github.com/](https://github.com/Laboratory-of-Oncology-Epigenomics/FAOSTAT-agrochemical-data-analysis)) | Pipeline reprodutível para controle de qualidade e normalização de microarrays de DNAm. | `R` |
+| [`FAOSTAT-agrochemical-data-analysis`](https://github.com/Laboratory-of-Oncology-Epigenomics/FAOSTAT-agrochemical-data-analysis) | Pipeline reprodutível para controle de qualidade e normalização de microarrays de DNAm. | `R` |
 | [`Randomization_HTML`](https://github.com/Laboratory-of-Oncology-Epigenomics/Randomization_HTML) | Pacote estatístico para identificação de regiões diferencialmente metiladas (DMRs). | `R` |
 
 ---
