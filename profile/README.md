@@ -10,10 +10,6 @@ O **Laboratório de Epigenética em Oncologia** é um grupo de pesquisa focado n
 
 ### Linhas de Pesquisa
 
-* **Metilação do DNA e Idade Biológica:** Perfis de DNAm, relógios epigenéticos e alterações na paisagem de metilação em tumores.
-* **Biomarcadores Translacionais:** Mineração e integração de dados multi-ômicos para caracterização fenotípica de subtipos tumorais.
-* **Bioinformática e Pipelines Reprodutíveis:** Desenvolvimento de fluxos automatizados para dados de microarrays (*Illumina Infinium*) e sequenciamento de nova geração (WGBS, RNA-seq).
-
 ---
 
 ### Repositórios em Destaque
