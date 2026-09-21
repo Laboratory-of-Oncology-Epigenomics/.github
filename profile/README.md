@@ -4,7 +4,7 @@
 [![Open Science](https://img.shields.io/badge/Open%20Science-FAIR%20Data-brightgreen?style=flat-square)](https://www.go-fair.org/fair-principles/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-O **Laboratório de Epigenética em Oncologia** é um grupo de pesquisa focado no desenvolvimento de ferramentas computacionais e análises translacionais para compreender mecanismos epigenéticos no câncer. Nosso objetivo é identificar biomarcadores de diagnóstico, prognóstico e predição de resposta terapêutica por meio de bioinformática e ciência aberta.
+O **Laboratório de Epigenética em Oncologia** é um grupo de pesquisa focado no desenvolvimento de ferramentas computacionais e análises translacionais para compreender mecanismos epigenéticos no câncer. Nosso objetivo é identificar biomarcadores de diagnóstico e prognóstico por meio de bioinformática e ciência aberta.
 
 ---
 
@@ -18,6 +18,7 @@ O **Laboratório de Epigenética em Oncologia** é um grupo de pesquisa focado n
 |---|---|---|
 | [`FAOSTAT-agrochemical-data-analysis`](https://github.com/Laboratory-of-Oncology-Epigenomics/FAOSTAT-agrochemical-data-analysis) | Pipeline reprodutível para controle de qualidade e normalização de microarrays de DNAm. | `R` |
 | [`Randomization_HTML`](https://github.com/Laboratory-of-Oncology-Epigenomics/Randomization_HTML) | Pacote estatístico para identificação de regiões diferencialmente metiladas (DMRs). | `R` |
+| [`Cancer_Bioinformatics_Exercises`](https://github.com/Laboratory-of-Oncology-Epigenomics/Cancer_Bioinformatics_Exercises) | Exercícios de treinamento para aprender a utilizar a linguagem R | `R` |
 
 ---
 
